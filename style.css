@@ -1,4 +1,77 @@
-h1 {
-    font-family: 'Courier New', Courier, monospace;
-    color: red;
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 960px;
+    padding: 20px;
+    Background: #777;
+    Content: #ebebeb;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+    color: gray;
+    
+}
+
+div {
+    background: lightgray;
+    margin: 10px;
+    padding: 10px;
+     
+
+}
+
+.header {
+
+}
+
+.nav {
+
+
+}
+
+.section {
+    position: relative;
+    flex: 50%;
+    width: 438px;
+
+}
+
+.aside {
+    position: relative;
+    flex: 50%;
+    left: 50%;
+     width: 438px;
+     bottom: 34.8%;
+     height: 293.88px;
+    /* flex: 1; */
+
+}
+.box { 
+    /* background: black; */
+    position: relative;
+    /* top: 50%; */
+}
+
+.article {
+    background: #777;
+    
+    
+}
+
+.article h4 {
+ color: white;
+}
+
+p {
+    background: lightgray;
+
+}
+
+.footer {
+    position: relative;
+    bottom: 35%;
 }
