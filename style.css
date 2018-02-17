@@ -20,19 +20,8 @@ div {
     background: lightgray;
     margin: 10px;
     padding: 10px;
+}
      
-
-}
-
-.header {
-
-}
-
-.nav {
-
-
-}
-
 .section {
     position: relative;
     flex: 50%;
@@ -47,28 +36,23 @@ div {
      width: 438px;
      bottom: 34.8%;
      height: 293.88px;
-    /* flex: 1; */
 
 }
+
 .box { 
-    /* background: black; */
     position: relative;
-    /* top: 50%; */
 }
 
 .article {
-    background: #777;
-    
-    
+    background: #777; 
 }
 
 .article h4 {
- color: white;
+    color: white;
 }
 
 p {
     background: lightgray;
-
 }
 
 .footer {
