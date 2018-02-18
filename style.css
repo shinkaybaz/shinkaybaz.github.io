@@ -34,8 +34,8 @@ div {
     flex: 50%;
     left: 50%;
      width: 438px;
-     bottom: 34.8%;
-     height: 293.88px;
+     bottom: 38.7%;
+     height: 309.88px;
 
 }
 
@@ -51,11 +51,15 @@ div {
     color: white;
 }
 
+.article p {
+    padding: 4px;
+}
+
 p {
     background: lightgray;
 }
 
 .footer {
     position: relative;
-    bottom: 35%;
+    bottom: 38%;
 }

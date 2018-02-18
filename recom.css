@@ -1,4 +1,47 @@
-* {
+body {
 
     background: url(https://www.toptal.com/designers/subtlepatterns/patterns/circles-light.png);
 } 
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    border: #cccccc;
+    padding: 10px;
+}
+
+.box {
+    color: #777777;
+    float: right;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+.about p {
+    color: #777777;
+    text-align: center;
+
+}
+
+h3 {
+    color: #4aaaa5;
+}
+
+
+
+
+
+
+
+
+
+
+.footer {
+    background-color: #666666;
+    text-align: center;
+    color: white;
+}
