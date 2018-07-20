@@ -2,6 +2,10 @@ body {
 
     background: url(https://www.toptal.com/designers/subtlepatterns/patterns/circles-light.png);
 } 
+
+/* html {
+    width: 100%;
+} */
 .container2 {
     display: flex;
 }
@@ -33,14 +37,18 @@ h2 {
     background: white;
 }
 
-.about img {
+.my-image {
     float: left;
+    /* margin-right: 1em; */
+    margin: 4px;
+
 }
 
 .about p {
     color: #777777;
     text-align: center;
-    float: right;
+    float: right; 
+    margin-top: 1.5em;
 
 }
 
@@ -61,6 +69,7 @@ padding: 10px;
 
 .footer {
     background-color: #666666;
+    line-height: 3.5;
     text-align: center;
     color: white;
     
